@@ -1,0 +1,42 @@
+h1 {
+    font-variant: Small-Caps;
+    text-align: center;
+    font-size: 50px;
+  }
+#img {
+  width:500px;
+  height: 500px;
+  margin-left: 500px;
+  border-style: solid;
+  padding: 5px;
+  border-radius: 80px;
+  }
+  h2 {
+  text-align: center;
+  font-size: 30px;
+  }
+  #names {
+  font-variant: small-caps;
+  font-size: 40px;
+  text-align: center;
+  }
+  #next {
+  margin-left: 720px;
+  background-color: white; 
+  color: black; 
+  border: 2px solid #008CBA;
+  padding: 16px 32px;
+  border-radius: 12px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  }
+#next:hover{
+    background-color: #008CBA;
+    color: white;
+      
+}
+  
